@@ -1,6 +1,6 @@
 version: 1.0
 tools:
-  - name: flagger 
+  - name: flagstat
     subclass: Nextflow
     primaryDescriptorPath: /main.nf
     authors:
