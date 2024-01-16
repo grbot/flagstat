@@ -1,4 +1,4 @@
-version: main
+version: 1.0.0
 tools:
   - name: flagstat
     subclass: Nextflow
