@@ -2,7 +2,7 @@ version: 1.0.0
 tools:
   - name: flagstat
     subclass: Nextflow
-    primaryDescriptorPath: /main.nf
+    primaryDescriptorPath: /nextflow.config
     authors:
       - name: Gerrit Botha
         email: gerrit.botha@gmail.com
