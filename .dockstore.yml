@@ -1,6 +1,7 @@
 version: 1.0
 tools:
-  - subclass: Nextflow
+  - name: flagger 
+    subclass: Nextflow
     primaryDescriptorPath: /main.nf
     authors:
       - name: Gerrit Botha
