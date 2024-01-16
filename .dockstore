@@ -1,0 +1,7 @@
+version: 1.0
+tools:
+  - subclass: Nextflow
+    primaryDescriptorPath: /main.nf
+    authors:
+      - name: Gerrit Botha
+        email: gerrit.botha@gmail.com
