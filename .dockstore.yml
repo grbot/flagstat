@@ -1,0 +1,6 @@
+# Dockstore config version, not pipeline version
+version: main
+workflows:
+  - subclass: nfl
+    primaryDescriptorPath: /nextflow.config
+    publish: True
